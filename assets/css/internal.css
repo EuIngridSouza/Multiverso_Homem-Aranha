@@ -1,9 +1,9 @@
 @import url(reset.css);
 @import url(global.css);
-@import url(componets/_navigator.css);
-@import url(componets/_pills.css);
-@import url(componets/_link-button.css);
-@import url(componets/_gallery.css);
+@import url(componets/navigator.css);
+@import url(componets/pills.css);
+@import url(componets/link-button.css);
+@import url(componets/gallery.css);
 
 .s-wrapper{
     display: flex;
