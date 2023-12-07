@@ -10,7 +10,7 @@
 ## 🎯Objetivo:
 
 
-Este projeto teve como objetivo aprimorar os conceitos de HTML, CSS e JAVASCRIPT, foi realizado com base no projeto Multiverso Spider-Man -- DIO.
+Este projeto teve como objetivo aprimorar os conceitos de HTML, CSS e JAVASCRIPT, foi realizado com base no projeto Multiverso Spider-Man -- DIO, afim de receber a [Certificação](https://www.dio.me/certificate/F97BB20C/share).
 
 
 
