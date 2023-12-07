@@ -12,6 +12,11 @@ Este projeto teve como objetivo aprimorar os conceitos de HTML, CSS e JAVASCRIPT
 
 
 
+### Projeto semelhante
+[![One Piece](https://img.shields.io/badge/One_Piece-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/OnePiece_liveAction/)
+
+
+
 ## 🔗Links: 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-coelho-de-abreu-de-souza?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
