@@ -15,7 +15,7 @@ Este projeto teve como objetivo aprimorar os conceitos de HTML, CSS e JAVASCRIPT
 ### Projeto semelhante:
 | Diretório  | Página|
 | ------------- | ------------- |
-| [![Diretório One Piece](https://img.shields.io/badge/One_Piece--live_action-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/OnePiece_liveAction/)  | [![One Piece](https://img.shields.io/badge/One_Piece-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/OnePiece_liveAction/)  |
+| [![Diretório One Piece](https://img.shields.io/badge/One_Piece--live_action-black?style=for-the-badge&logoColor=white)](https://github.com/EuIngridSouza/OnePiece_liveAction.git)  | [![One Piece](https://img.shields.io/badge/One_Piece-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/OnePiece_liveAction/)  |
 
 
 
