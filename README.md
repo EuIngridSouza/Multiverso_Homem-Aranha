@@ -1,7 +1,7 @@
 # Multiverso Homem Aranha
 
 
-[![spider.png](https://i.postimg.cc/2y5P6Jhg/spider.png)](https://postimg.cc/nj6dS3d1)[![Ver projeto](https://img.shields.io/badge/Ver_projeto-black?style=for-the-badge&logo=github&logoColor=white)](https://euingridsouza.github.io/Multiverso_Homem-Aranha/)
+[![spider.png](https://i.postimg.cc/2y5P6Jhg/spider.png)](https://euingridsouza.github.io/Multiverso_Homem-Aranha/)[![Ver projeto](https://img.shields.io/badge/Ver_projeto-black?style=for-the-badge&logo=github&logoColor=white)](https://euingridsouza.github.io/Multiverso_Homem-Aranha/)
 
 
 
