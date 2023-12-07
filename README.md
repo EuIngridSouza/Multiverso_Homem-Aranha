@@ -5,14 +5,14 @@
 
 
 
-## 🎯Objetivo
+## 🎯Objetivo:
 
 
 Este projeto teve como objetivo aprimorar os conceitos de HTML, CSS e JAVASCRIPT, foi realizado com base no projeto Multiverso Spider-Man -- DIO.
 
 
 
-### Projeto semelhante
+### Projeto semelhante:
 [![One Piece](https://img.shields.io/badge/One_Piece-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/OnePiece_liveAction/)
 
 
